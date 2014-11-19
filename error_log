@@ -1,0 +1,1 @@
+[23-Sep-2014 23:12:18 Africa/Johannesburg] PHP Fatal error:  Out of memory (allocated 128188416) (tried to allocate 32 bytes) in /home/smarterc/public_html/markov/markov.php on line 42
