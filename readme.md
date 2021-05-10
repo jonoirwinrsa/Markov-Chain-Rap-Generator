@@ -6,10 +6,10 @@ Work in progress - it works but the results aren't very clean.
 
 ### Sources
 
-[Hay Kranen] (http://www.haykranen.nl/projects/markov/) - Markov chain generator
+[Hay Kranen](http://www.haykranen.nl/projects/markov/) - Markov chain generator
 
 [PHP Simple HTML DOM Parser](http://simplehtmldom.sourceforge.net/) - Parser
 
 [Rap Genius Polska](https://www.facebook.com/RapGeniusPolska?ref_type=bookmark) - Lyrics and artist lists
 
-[simivar] (https://github.com/simivar/RapGenius-PHP) - Fetching lyrics
+[simivar](https://github.com/simivar/RapGenius-PHP) - Fetching lyrics
