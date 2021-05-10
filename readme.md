@@ -1,3 +1,5 @@
+My 2014 attempt at auto-generating content - in this instance using Markov Chains
+
 # Goal
 To get rap lyrics from genuis.com and combine these with snippets from the bible or other famous works to create rap-like snippets using markov chains.
 
